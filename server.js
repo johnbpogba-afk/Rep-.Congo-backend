@@ -6,7 +6,7 @@ const app  = express();
 const PORT = 3000;
 
 // ─── HARDCODED CONFIG (remove after testing) ────────────────────────────────
-const WONYA_TOKEN      = "wpa_3g3b5okhc3oupnzo4tbf15jfsgs5serf8splp08qa8c95e7k57x";
+const WONYA_TOKEN      = "wpa_1f8qwm1hia871cnt8kyj8vi98aaoqs5ehhjbhq0g6jsmrd370gr";
 const WONYA_PARTNER_ID = "333508045051";   // RefPartenaire (Swiftco, Goma)
 const WONYA_BASE_URL   = "https://app-api.wonyasoft.com";
 const CALLBACK_URL     = "https://rep-congo-backend.onrender.com/api/callback";
